@@ -2,11 +2,12 @@ try:
     from distutils.core import setup
 except ImportError:
     from setuptools import setup
+from wikiscraper import constants
 
 setup(
     name="WikiScraper",
     author="Brian Lusina",
-    version="1.0.0",
+    version=constants.VERSION,
     author_email="lusinabrian@gmail.com",
     description="Wikipedia scrapper to fetch top 20 most sought words",
     long_description=open("README.md").read(),

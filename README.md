@@ -3,6 +3,7 @@ This is the code for the "Build a Web Scraper"
 
 #Overview
 This script pulls the top 20 most frequently used words from a Wikipedia article. It uses regular expressions and stop word removal to create a cleaned table that we can view with the results
+applications are recommender systems, chatbots and NLP, sentiment analysis, data visualization, market research
 
 #Installation
 
