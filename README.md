@@ -1,13 +1,14 @@
 # WikiScraper
-This is the code for the "Build a Web Scraper"
 
-#Overview
-This script pulls the top 20 most frequently used words from a Wikipedia article. It uses regular expressions and stop word removal to create a cleaned table that we can view with the results
-applications are recommender systems, chatbots and NLP, sentiment analysis, data visualization, market research
+Pulls the top 20 most frequently used words from a Wikipedia article. It uses regular expressions and 
+stop word removal to create a cleaned table that we can view with the results
+applications are recommender systems, chatbots and NLP, sentiment analysis, data visualization, 
+market research
 
 #Installation
 
-The necessary dependencies are in the requirements.txt file so just run this before running the actual code to get them installed
+The necessary dependencies are in the requirements.txt file so just run this before running the 
+actual code to get them installed
 
 ``
 pip install -r requirements.txt

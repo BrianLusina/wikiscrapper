@@ -71,7 +71,6 @@ def remove_stop_words(frequency_list):
     return temp_list
 
 
-
 # if the search word is too small, throw error
 if len(sys.argv) < 2:
     print("Enter valid string")
